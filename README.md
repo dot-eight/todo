@@ -1,4 +1,14 @@
 
+デプロイする
+
+Github Pages
+
+https://dot-eight.github.io/todo/
+
+Vercel
+
+https://todo-eta-mocha.vercel.app/
+
 MCPを追加する
 
 Playwright　MCP をプロジェクトに追加する
